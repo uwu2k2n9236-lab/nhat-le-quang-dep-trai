@@ -1,0 +1,6 @@
+{
+  "name": "Grow Castle Ratio Tracker",
+  "description": "Calculate and monitor hero level to wave ratios, gold upgrade costs, castle balance, and build presets for Grow Castle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
